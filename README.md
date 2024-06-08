@@ -1,9 +1,8 @@
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
-  </ul>
-</div>
-<br/>
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
+<br> 
 
 <h1 align="center">Hi 👋, I'm Mst Shormily Raisa</h1>
 <h3 align="center">Junior Web developer from Bangladesh</h3>
