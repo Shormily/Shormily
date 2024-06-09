@@ -43,7 +43,7 @@
 <div float="flex"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b><br/>
  
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shormily&show_icons=true&locale=en&layout=compact" alt="shormily" /></p>
+<p><img align="left" mt="2" src="https://github-readme-stats.vercel.app/api/top-langs?username=shormily&show_icons=true&locale=en&layout=compact" alt="shormily" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shormily&show_icons=true&locale=en" alt="shormily" /></p>
 
