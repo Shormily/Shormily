@@ -4,7 +4,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shormily&label=Profile%20views&row=1&column=7&margin-h=15&margin-w=5&no-bg=true&color=0e75b6&style=flat" alt="shormily" /> </p>
 <p align="left"> <a  href="https://github.com/ryo-ma/github-profile-trophy"> <img style="margin-left: 10px;"  src="https://github-profile-trophy.vercel.app/?username=shormily" alt="shormily" /> </a> </p>
-
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 - 🔭 I’m currently working on [Portfolio](https://next-js-portfolio-omega-gules.vercel.app/)
 
 - 🌱 I’m currently learning **Nextjs or latest version**
