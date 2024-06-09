@@ -58,7 +58,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shormily&show_icons=true&locale=en"/>
   </a>
   <a href="https://github.com/Adityakanoi2001">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Adityakanoi2001&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=shormily&show_icons=true&locale=en&layout=compact"/>
   </a>
 </p>
 
