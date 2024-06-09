@@ -47,8 +47,21 @@
 <br>
 <p align="left">
   <a href="https://abhigyantrips.dev/">
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=shormily&" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shormily&" />
     <img width="50%" src="https://github-readme-stats.vercel.app/api?username=shormily&show_icons=true&locale=en" />
   </a>
 </p>
 <p><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=shormily&show_icons=true&locale=en&layout=compact" /></p>
+
+<p align="center">
+  <a href="https://github.com/Adityakanoi2001">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Adityakanoi2001&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/Adityakanoi2001">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Adityakanoi2001&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaKanoi2001&theme=dark&hide_border=true"/>
+</p>
