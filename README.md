@@ -31,8 +31,8 @@
 <a href="https://instagram.com/instagram.com/shormily_raisa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com/shormily_raisa/" height="40" width="40" /></a>
 </p>
 
-<h2 align="center"><img top="5px" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Technologies That I Know👨🏻‍💻</b> <br/></h2>
-
+<h2 align="center"><img top="5px" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Technologies That I Know👨🏻‍💻</b> </h2>
+<br/><br/>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,css,bootstrap,gmail,discord,express,figma,firebase,github,html,materialui,vite,mongodb,nextjs,nodejs,react,redux,tailwind,ts,netlify,npm,vscode&perline=14" />
