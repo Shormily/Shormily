@@ -24,7 +24,7 @@
 <div id="user-content-toc">
   <ul align="center">
    <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
-    <summary><h1 >Connect With Me </h2></summary>
+   <h1 >Connect With Me </h2>
   </ul>
 </div>
 <p align="center">
