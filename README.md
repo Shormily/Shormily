@@ -51,8 +51,4 @@
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=shormily&show_icons=true&locale=en" />
   </a>
 </p>
-<p><img align="left" mt="2" src="https://github-readme-stats.vercel.app/api/top-langs?username=shormily&show_icons=true&locale=en&layout=compact" alt="shormily" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shormily&show_icons=true&locale=en" alt="shormily" /></p>
-
 <p><img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs?username=shormily&show_icons=true&locale=en&layout=compact" /></p>
