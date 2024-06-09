@@ -1,11 +1,7 @@
 
 <h1 align="center">Hi, I'm Mst  Shormily Raisa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><p align="center"><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Web+Developer+From+Bangladesh..&hearts;++;Self-taught+Front-End+Developer,;React+Developer,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a></p><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 </h1>
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=1010nishant&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shormily&label=Profile%20views&row=1&column=7&margin-h=15&margin-w=5&no-bg=true&color=0e75b6&style=flat" alt="shormily" /> </p>
 <p align="left"> <a  href="https://github.com/ryo-ma/github-profile-trophy"> <img style="margin-left: 10px;"  src="https://github-profile-trophy.vercel.app/?username=shormily" alt="shormily" /> </a> </p>
 
