@@ -47,7 +47,7 @@
 <br>
 <p align="left">
   <a href="https://abhigyantrips.dev/">
-  <img width="49.5%" src="[https://github-readme-stats.vercel.app/api/top-langs?username=shormily&show_icons=true&locale=en&layout=compact](https://github-readme-streak-stats.herokuapp.com/?user=shormily&)" />
+  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=shormily&" />
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=shormily&show_icons=true&locale=en" />
   </a>
 </p>
