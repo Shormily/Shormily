@@ -3,7 +3,7 @@
  <img top="10" src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=30&top=10&lines=Web+Developer+From+Bangladesh..&hearts;++;Self-taught+Front-End+Developer,;React+Developer,;CTF+Newbie,;Active+Learner/Researcher,..<3"></a></p></h1><p align="center"> <img src="https://komarev.com/ghpvc/?username=shormily&label=Profile%20views&row=1&column=7&margin-h=5&margin-w=5&no-bg=true&color=0e75b6&style=flat" alt="shormily" /> </p>
 <p align="center"><a  href="https://github.com/ryo-ma/github-profile-trophy"><img style="margin-top: 10px;"  src="https://github-profile-trophy.vercel.app/?username=shormily" alt="shormily" /></a></p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 - 🔭 I’m currently working on [Portfolio](https://next-js-portfolio-omega-gules.vercel.app/)
 
 - 🌱 I’m currently learning **Nextjs or latest version**
@@ -20,7 +20,7 @@
 
 - ⚡ Fun fact **I am very funny and like to laugh at myself and make others laugh**
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div id="user-content-toc">
   <ul align="center">
