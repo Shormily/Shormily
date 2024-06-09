@@ -24,7 +24,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/mst-shormily-raisa-aa1992216/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="https://www.linkedin.com/in/mst-shormily-raisa-aa1992216/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mst-shormily-raisa-aa1992216/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="https://www.linkedin.com/in/mst-shormily-raisa-aa1992216/" height="50" width="50" /></a>
 <a href="https://fb.com/facebook.com/shormily.raisa.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook.com/shormily.raisa.1" height="30" width="40" /></a>
 <a href="https://instagram.com/instagram.com/shormily_raisa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com/shormily_raisa/" height="30" width="40" /></a>
 </p>
