@@ -45,14 +45,6 @@
 <div float="flex"><h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b><br/></h2>
  
 <br>
-<p align="left">
-  <a href="https://abhigyantrips.dev/">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shormily&" />
-    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=shormily&show_icons=true&locale=en" />
-  </a>
-</p>
-<p><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=shormily&show_icons=true&locale=en&layout=compact" /></p>
-
 <p align="center">
   <a href="https://github.com/Adityakanoi2001">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shormily&show_icons=true&locale=en"/>
