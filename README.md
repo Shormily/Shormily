@@ -21,7 +21,7 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1_l4pvyGUeiQ0EPVmXPVMKm_m5MpaLNiB/view](https://drive.google.com/file/d/1_l4pvyGUeiQ0EPVmXPVMKm_m5MpaLNiB/view)
 
 - ⚡ Fun fact **I am very funny and like to laugh at myself and make others laugh**
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/mst-shormily-raisa-aa1992216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mst-shormily-raisa-aa1992216/" height="30" width="40" /></a>
