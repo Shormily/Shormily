@@ -16,9 +16,7 @@
 - 💬 Ask me about **React ,NextJS, Express.JS**
 
 - 📫 How to reach me **mstshormilyraisa@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_l4pvyGUeiQ0EPVmXPVMKm_m5MpaLNiB/view](https://drive.google.com/file/d/1_l4pvyGUeiQ0EPVmXPVMKm_m5MpaLNiB/view)
-
+- 
 - ⚡ Fun fact **I am very funny and like to laugh at myself and make others laugh**
 
 
