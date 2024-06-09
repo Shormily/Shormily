@@ -24,7 +24,7 @@
 <div id="user-content-toc">
   <ul align="center">
    <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
-   <h1 >Connect With Me </h2>
+   <h2 >Connect With Me </h2>
   </ul>
 </div>
 <p align="center">
@@ -33,7 +33,7 @@
 <a href="https://www.instagram.com/shormily_raisa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com/shormily_raisa/" height="40" width="40" /></a>
 </p>
 
-<h1 align="center"><img top="5px" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Technologies That I Know👨🏻‍💻<br/><br/></b> </h2>
+<h2 align="center"><img top="5px" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Technologies That I Know👨🏻‍💻<br/><br/></b> </h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
